@@ -26,5 +26,5 @@ This repository contains all the patch files of the various tasks assigned by JP
 - `Contrubuting to the Open Source Community`
 ---
 #### My Certificate of Completion
-![Certificate](https:https://github.com/TarunSehgal27/JPMorgan-Chase-Virtual-Internship/blob/master/Intership_Certificate.png?raw=true)
+![Certificate](https://github.com/TarunSehgal27/JPMorgan-Chase-Virtual-Internship/blob/master/Intership_Certificate.png?raw=true)
 
